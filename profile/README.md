@@ -6,7 +6,7 @@
 
 **ES** — Estudio independiente de software liderado por [David Hernández](https://github.com/DHA2004), desarrollador full-stack y constructor de producto en Bogotá. Llevo problemas operativos reales desde un flujo poco claro hasta un producto listo para operar.
 
-[LinkedIn](https://www.linkedin.com/in/david-hern%C3%A1ndez-asaf-32940b348/) · [GitHub](https://github.com/DHA2004) · Open to remote product, engineering and AI-enabled work
+[Portfolio](https://david-hernandez-portfolio.dha2004.chatgpt.site) · [LinkedIn](https://www.linkedin.com/in/david-hern%C3%A1ndez-asaf-32940b348/) · [GitHub](https://github.com/DHA2004) · Open to remote product, engineering and AI-enabled work
 
 ## Product work / Productos
 

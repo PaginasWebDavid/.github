@@ -10,12 +10,12 @@
 
 ## Selected work / Proyectos destacados
 
-| Project | What it shows / Qué demuestra | Stack |
-| --- | --- | --- |
-| [PQRS Services](https://github.com/PaginasWebDavid/PQRS_SaaS) | Production multi-tenant SaaS for residential operations: role-based workflows, secure payments and reporting. / SaaS multiconjunto en producción: flujos por rol, pagos seguros y reportes. | Next.js · TypeScript · PostgreSQL · Prisma · Supabase |
-| [Mubis](https://github.com/MubisWEB/mubis_frontend) | B2B vehicle-auction marketplace with real-time bidding, company roles and operational workflows. / Marketplace B2B de subastas con pujas en tiempo real, roles y operación. | React · TypeScript · Socket.io · NestJS · Prisma |
-| [MILLE](https://github.com/Mille-Motors/Mille_website) | Curated automotive marketplace with a polished public experience and private administration. / Marketplace automotriz curado con experiencia pública y administración privada. | Next.js · React · TypeScript · Prisma · Supabase |
-| Calle 100 | Private residential-operations project. The source code and client data stay private by design. / Proyecto privado de operación residencial; el código y los datos de cliente se mantienen privados. | React · Supabase · Product design |
+| Project | Explore / Explorar | What it shows / Qué demuestra | Stack |
+| --- | --- | --- | --- |
+| PQRS Services | [Code](https://github.com/PaginasWebDavid/PQRS_SaaS) · [Live demo](https://pqrs-saa-s.vercel.app) | Production multi-tenant SaaS for residential operations: role-based workflows, secure payments and reporting. / SaaS multiconjunto en producción: flujos por rol, pagos seguros y reportes. | Next.js · TypeScript · PostgreSQL · Prisma · Supabase |
+| Mubis | [Code](https://github.com/MubisWEB/mubis_frontend) · [Live demo](https://mubisfrontend-44fab88a-1.vercel.app) | B2B vehicle-auction marketplace with real-time bidding, company roles and operational workflows. / Marketplace B2B de subastas con pujas en tiempo real, roles y operación. | React · TypeScript · Socket.io · NestJS · Prisma |
+| MILLE | [Code](https://github.com/Mille-Motors/Mille_website) · [Live demo](https://mille-website-one.vercel.app) | Curated automotive marketplace with a polished public experience and private administration. / Marketplace automotriz curado con experiencia pública y administración privada. | Next.js · React · TypeScript · Prisma · Supabase |
+| Calle 100 | Private client work / Trabajo privado | Private residential-operations project. The source code and client data stay private by design. / Proyecto privado de operación residencial; el código y los datos de cliente se mantienen privados. | React · Supabase · Product design |
 
 ## How I work / Cómo trabajo
 
